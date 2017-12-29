@@ -3,10 +3,12 @@ Blockchain tutorial:
 
 [Source Link](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 [Source Code](https://github.com/Jeiwan/blockchain_go)
+
 Usage:
+------
 
 Remove my.db if it exists:
------
+
 ```
 go run *.go getbalance -address Ivan
 go run *.go send -from Ivan -to Pedro -amount 6
