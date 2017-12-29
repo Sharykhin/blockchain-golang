@@ -6,7 +6,7 @@ Blockchain tutorial:
 Usage:
 -----
 ```
-go run main.go printchain
-go run main.go addblock -data "Send 1 BTC to Erica"
-go run main.go addblock -data "Pay 0.31337 BTC for a coffee"
+go run *.go printchain
+go run *.go addblock -data "Send 1 BTC to Erica"
+go run *.go addblock -data "Pay 0.31337 BTC for a coffee"
 ```
