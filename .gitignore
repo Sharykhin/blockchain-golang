@@ -1,4 +1,5 @@
 .idea
 my.db
-wallet.dat
-blockchain.db
+wallet_*.dat
+blockchain_*.db
+blockchain_genesis.db

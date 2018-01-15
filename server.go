@@ -58,13 +58,13 @@ type verzion struct {
 }
 
 func commandToBytes(command string) []byte {
-	var bytes [commandLength]byte
+	var bytesStore [commandLength]byte
 
 	for i, c := range command {
-		bytes[i] = byte(c)
+		bytesStore[i] = byte(c)
 	}
 
-	return bytes[:]
+	return bytesStore[:]
 }
 
 func bytesToCommand(bytes []byte) string {
