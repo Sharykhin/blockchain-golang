@@ -3,6 +3,7 @@ Blockchain tutorial:
 
 [Source Link](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)  
 [Source Code](https://github.com/Jeiwan/blockchain_go)
+[Forked Source Code](https://github.com/Sharykhin/blockchain_go)
 
 Usage:
 ------
